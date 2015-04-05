@@ -1,7 +1,7 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  <!--comment here-->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>me Template di Bootstrap</title>
+    <title>Template di Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
